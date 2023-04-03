@@ -1,5 +1,5 @@
-# HabitTrackerNodeJS Description
-A simple Habit tracker app which allows to and track habits with a maximum 7 days view.
+# HabitTracker
+Habit tracker app which allows to create/ track/ delete/ change status / provides a 7 days view.
 
 # Features
 - Add Habits.
